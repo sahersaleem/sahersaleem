@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahersaleem emerging software engineer.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Typescript in GIAIC.
-- 📫 How to reach me @sabasaleem281@gmail.com
+- 📫 How to reach me sahersaleem72@gmail.com
 
 
 <!---
